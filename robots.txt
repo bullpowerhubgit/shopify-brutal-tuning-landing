@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bullpowerhubgit.github.io/shopify-brutal-tuning-landing/sitemap.xml
